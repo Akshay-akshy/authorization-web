@@ -4,7 +4,6 @@ Nxt Trendz <br/>
 url=https://akauth.ccbp.tech/products <br/>
 
 username: 'rahul"<br/>
-
 password: "rahul@2021"<br/>
 
 
