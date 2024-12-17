@@ -38,6 +38,14 @@ password: "rahul@2021"<br/>
 </details>
 
 
+<details>
+<summary>Click to view</summary>
+
+- Download dependencies by running `npm install`
+- Start up the app using `npm start`
+</details>
+
+
 
 
 
