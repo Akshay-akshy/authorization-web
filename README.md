@@ -1,4 +1,4 @@
-Nxt Trendz
+Nxt Trendz <br/>
  This static e-commerce website, built with React, offers a seamless shopping experience by combining dynamic content retrieval with a robust user authentication system. Authenticated users can securely log in to access the home page, where product data and other content are fetched in real-time from APIs. The application is structured with a component-based architecture, ensuring modularity, scalability, and maintainability. Designed with responsiveness and user-friendliness in mind, this project demonstrates proficiency in creating efficient, interactive, and visually appealing web applications.
 
 web url=https://akauth.ccbp.tech/products
